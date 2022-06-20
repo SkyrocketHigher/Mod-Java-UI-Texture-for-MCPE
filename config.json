@@ -9,7 +9,7 @@
       
       "addon": false,
       "maps": false,
-      "texture": false,
+      "texture": true,
       "skin": true,
       "more": false,
       
@@ -55,13 +55,29 @@
   ],
   "Texture": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
+    "name": "Vanilla Deluxe: Java UI + Mixed UI + PvP UI",
+    "role": "Before Modified Vanilla and Vanilla enhanced. Is an TP/RP that would improve UI and other assets. Actually, is an testing TP made since fall 2016, oriented to port menus and container/inventory GUI textures from Java Edition to Bedrock Edition more easily and efficient! At the moment there are 3 types: Java Edition UI: Convert base game interface to Java Edition interface style! Of course, not all screens were modified, but I will add more in future versions! Mixed UI: It is the improved version of the HUD UI and inventory containers still with base game style, with the small combination of Java Edition and Legacy Console Edition parts. PvP (Java Edition 1.8) UI: The same between Mixed UI and Java UI, but, the UI design is mainly based on JE 1.8, the version most used to play PvP servers. Now has clear Chat BG and Scoreboard BG without red score numbers.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Java UI/1/1.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Java UI/1/VDX-Java-UI-v1.2.0.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Java UI/1/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Java UI/1/3.png"
+  },
+  {
+    "name": "Dark Mode UI v1.2.0 (VDX: Dark Mode Java UI Update!)",
+    "role": "This Pack Changes from Minecraft light UI to Dark UI also works with other UI packs, I hope you like this pack, and I will be adding new updates to this pack soon, Look down at these Screenshots, It Takes me 1 month to Draw & Creating, I want mcpedl accept this pack",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Java UI/2/2.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Java UI/2/VDX_Dark_Mode_Java_UI.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Java UI/2/1.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Java UI/2/3.png"
+  },
+  {
+    "name": "Clear / Clean Java Inventory UI v2 New SMOOTH UI",
+    "role": "This resource pack changes your UI (ingame) to look like Java Edition , but not only that , it makes it also clear / clean which is very useful for pvp!. Ive also created a normal version and dark mode version ! You guys can check it out !",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Java UI/3/1.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Java UI/3/BeatsUi v2point1.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Java UI/3/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Java UI/3/3.png"
+  }
   ],
   "Skins": [
     {
